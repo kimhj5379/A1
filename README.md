@@ -1,4 +1,4 @@
-# A1
+# Realtime_SST_korean.ver_example
 
 ## Description
 Auto-generated GitHub portfolio with GPT-based code review.
